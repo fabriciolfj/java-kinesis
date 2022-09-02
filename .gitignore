@@ -1,3 +1,8 @@
 
 .idea/
 /target
+infra/terraform.tfstate
+
+infra/.terraform.lock.hcl
+
+infra/.terraform/providers/registry.terraform.io/hashicorp/aws/4.29.0/darwin_amd64/terraform-provider-aws_v4.29.0_x5
